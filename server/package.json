@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Back-end of Avai",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mageshkumaar/avai.git"
+  },
+  "author": "Magesh Kumaar <mageshkumaar@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mageshkumaar/avai/issues"
+  },
+  "homepage": "https://github.com/mageshkumaar/avai#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
